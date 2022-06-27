@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/55177259/175921055-79635fbf-47ba-4526-8870-7e3db68a3e84.png)
+
 # Algorand-NFTs
 <h2> Explore Algorand dev features and endpoints using terminal, python script/notebook and Dappflow </h2>
 
